@@ -10,7 +10,9 @@ module BIT_SYNC #(
 	output reg [BUS_WIDTH-1:0] SYNC
 
 	);
+  
 
+  
 
 	reg [NUM_STAGES-1:0] my_sync [BUS_WIDTH-1:0] ;
 
