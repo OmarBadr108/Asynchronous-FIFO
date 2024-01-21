@@ -12,7 +12,10 @@ module BIT_SYNC #(
 	);
   
 
-  
+
+
+
+
 
 	reg [NUM_STAGES-1:0] my_sync [BUS_WIDTH-1:0] ;
 
